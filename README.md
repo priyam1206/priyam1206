@@ -15,7 +15,7 @@ I specialize in managing end-to-end development environments, from full-stack ap
 ---
 
 ### 🚀 Featured Work & Presence
-* **Personal Portfolio:** [priyn.com](https://priyn.com) 
+* **Personal Portfolio:** [dev.priyn.com](https://dev.priyn.com) 
 * **Technical Interests:** Exploring the practical applications of Agentic AI and automated security protocols.
 
 ---
@@ -32,4 +32,4 @@ I specialize in managing end-to-end development environments, from full-stack ap
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/priyam06](https://linkedin.com/in/priyam06)
-* **Website:** [priyn.com](https://priyn.com)
+* **Website:** [https://dev.priyn.com](https://dev.priyn.com/#contact)
