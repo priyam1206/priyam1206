@@ -1,22 +1,20 @@
 # Hi there, I'm Priyam Trivedi 👋
 
-I am a Computer Science Engineering student at **Vellore Institute of Technology (VIT)** with a focus on building at the intersection of **AI integration** and **technical infrastructure**. 
-
-I specialize in managing end-to-end development environments, from full-stack application logic to secure deployment and domain management.
+I am a **Software Engineer** specializing in the intersection of **AI integration** and **technical infrastructure**. My work focuses on building end-to-end development environments, from full-stack application logic to automated security and scalable domain management.
 
 ---
 
 ### 🛠️ Technical Focus
-* **AI & Machine Learning:** Specialized in LLM integration, Agentic AI architectures, and prompt engineering.
-* **Infrastructure & Cloud:** Hands-on experience with **Vercel** and **Cloudflare** for scalable hosting and DNS management.
-* **Security & Reliability:** Proficient in automated vulnerability scanning and maintaining secure web environments.
-* **Software Engineering:** Full-stack development with a focus on clean code and optimized workflows.
+* **AI & Infrastructure:** Implementation of **Agentic AI** architectures, LLM integration, and prompt engineering.
+* **Cloud Operations:** Advanced deployment and DNS management utilizing **Vercel** and **Cloudflare**.
+* **Security & Reliability:** Proficient in automated vulnerability scanning and maintaining secure, hardened web environments.
+* **Software Engineering:** Full-stack development with a focus on clean code, performance, and optimized workflows.
 
 ---
 
-### 🚀 Featured Work & Presence
-* **Personal Portfolio:** [dev.priyn.com](https://dev.priyn.com) 
-* **Technical Interests:** Exploring the practical applications of Agentic AI and automated security protocols.
+### 🚀 Featured Work
+* **Technical Portfolio:** [dev.priyn.com](https://dev.priyn.com) 
+* **Current Focus:** Developing practical applications for autonomous agents and enhancing infrastructure security protocols.
 
 ---
 
@@ -31,5 +29,5 @@ I specialize in managing end-to-end development environments, from full-stack ap
 ---
 
 ### 📫 Connect with Me
+* **Website:** [dev.priyn.com](https://dev.priyn.com/#contact)
 * **LinkedIn:** [linkedin.com/in/priyam06](https://linkedin.com/in/priyam06)
-* **Website:** [https://dev.priyn.com](https://dev.priyn.com/#contact)
