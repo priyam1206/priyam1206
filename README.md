@@ -39,12 +39,3 @@
 </p>
 
 <br/>
-
-## ⚡ Just for Fun
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aaronduino/github-pets/master/pets/dog.gif" width="50" alt="GitHub Pet Dog" />
-</p>
