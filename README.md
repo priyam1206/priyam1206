@@ -12,30 +12,3 @@
 </p>
 
 <br/>
-
-## 💻 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,git,linux&theme=dark" alt="Skill Icons" />
-  </a>
-</p>
-
-<br/>
-
-## 🏆 Milestones & Contributions
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyam1206&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyam1206/priyam1206/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyam1206/priyam1206/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/priyam1206/priyam1206/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<br/>
