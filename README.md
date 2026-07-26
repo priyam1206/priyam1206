@@ -9,3 +9,6 @@
 </picture>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Building%20Ideas&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Turning%20concepts%20into%20code&descAlignY=51&descAlign=62)
