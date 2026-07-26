@@ -33,3 +33,6 @@
 
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![Matrix Rain](https://github-readme-matrix.vercel.app/api?color=00ff00)
