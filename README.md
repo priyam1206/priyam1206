@@ -15,3 +15,10 @@
 
 
 ![3D contribution graph](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,git,linux&theme=dark" />
+  </a>
+</p>
