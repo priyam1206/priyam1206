@@ -12,3 +12,6 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Building%20Ideas&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Turning%20concepts%20into%20code&descAlignY=51&descAlign=62)
+
+
+![3D contribution graph](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)
