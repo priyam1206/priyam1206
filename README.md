@@ -7,3 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+</a>
