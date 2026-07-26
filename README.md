@@ -26,3 +26,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,git,linux&theme=dark" />
   </a>
 </p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
